@@ -23,6 +23,6 @@ redirect_from:
 * **Machine Learning Engineer**, Cape Analytics GmbH, Munich, Germany, *Jan 2016 – May 2017*  
 
 ## Languages
-**Fluent**: Turkish (Native), English, German, Python
-**Intermediate**: Japanese, French, C++, MATLAB
-**Basic**: Spanish, Russian, Persian, CUDA
+* **Fluent**: Turkish (Native), English, German, Python
+* **Intermediate**: Japanese, French, C++, MATLAB
+* **Basic**: Spanish, Russian, Persian, CUDA
