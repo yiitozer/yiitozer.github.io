@@ -22,11 +22,7 @@ redirect_from:
 * **Data Science Consultant**, Data Insights GmbH, Munich, Germany, *Jun 2017 – Dec 2018*  
 * **Machine Learning Engineer**, Cape Analytics GmbH, Munich, Germany, *Jan 2016 – May 2017*  
 
-## Skills
-* Python (Proficient)
-* C++, MATLAB (Intermediate)
-* PyTorch, TensorFlow, Apache Spark
-
 ## Languages
-* English (Fluent), German (Fluent), Turkish (Native)  
-* Japanese (Intermediate), French (Intermediate)  
+**Fluent**: Turkish (Native), English, German, Python
+**Intermediate**: Japanese, French, C++, MATLAB
+**Basic**: Spanish, Russian, Persian, CUDA
