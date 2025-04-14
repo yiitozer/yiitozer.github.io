@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
 * **Ph.D. in Semantic Audio Processing**, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, *Jan 2021 – Jun 2024*   
 * **M.S. in Communications Engineering**, Technical University of Munich, Germany, *Sep 2013 – Nov 2015* 
 * **B.S. in Electrical and Electronics Engineering**, Bilkent University, Turkey, *Sep 2009 – Jun 2013*  
