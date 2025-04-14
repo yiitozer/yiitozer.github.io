@@ -1,5 +1,5 @@
-body, html, .page, .archive {
-    font-family: 'Fira Sans', sans-serif !important;
+body {
+    font-family: 'Fira Sans', sans-serif;
   }
   
   /* Define color variables for theme */
