@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #
+title                    : Hey there!
 title_separator          : "-"
 name                     : &name "Yigitcan Özer"
 description              : &description "personal description"
