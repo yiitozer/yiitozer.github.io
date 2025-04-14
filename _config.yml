@@ -284,7 +284,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jeykll-scholar
+  - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
