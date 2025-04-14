@@ -284,7 +284,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -294,12 +293,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
-scholar:
-  style: ieee
-  locale: en
-  source: _publications
-  bibliography: oezer.bib
 
 # Archives
 #  Type

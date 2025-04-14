@@ -11,7 +11,32 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Render publications added as markdown posts -->
+## 📕 Ph.D. Thesis
+
+**Yigitcan Özer**  
+*Source Separation of Piano Music Recordings*  
+Ph.D. Thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany, 2024  
+[Demo](https://www.audiolabs-erlangen.de/resources/MIR/PCD_AudioLabs) ·  
+[FAU Repository](https://open.fau.de/handle/openfau/31319)
+
+---
+
+## 📘 Journal Papers
+
+**Yigitcan Özer**, Meinard Müller  
+*Source Separation of Piano Concertos Using Musically Motivated Augmentation Techniques*  
+*IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*, vol. 32, pp. 1214–1225, 2024  
+[Demo](https://www.audiolabs-erlangen.de/resources/MIR/2024-TASLP-PianoConcertoSeparation) ·  
+[DOI](https://doi.org/10.1109/TASLP.2024.3356980)
+
+
+<!-- Add more journal papers below as needed -->
+
+
+
+
+
+<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -32,5 +57,5 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-<h2>Complete List (from .bib)</h2>
-{% bibliography %}
+
+
