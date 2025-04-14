@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yigitcan Ozer"
+title                    : "Yigitcan Özer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yigitcan Özer"
 description              : &description "personal description"
 url                      : https://yiitozer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yigitcan Özer"
   pronouns         : "he/him"
-  bio              : "Postdoctoral researcher at NII, Tokyo. I work on audio watermarking, music and speech processing"
+  bio              : "I am a PostDoc researcher, working on audio watermarking, music and speech processing"
   location         : "Tokyo, Japan"
   employer         : "Yamagishi Lab, National Institute of Informatics (NII)"
   uri              : "https://yamagishilab.jp/"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/yiitozer/
+  linkedin         : yiitozer
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -214,9 +214,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # talks:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -253,23 +253,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
