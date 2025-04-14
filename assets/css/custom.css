@@ -1,0 +1,23 @@
+:root {
+    --global-theme-color: #98ff98; /* mint green */
+    --link-color: #50c878;
+    --link-hover-color: #3cb371;
+    --code-bg-color: #f0fff0;
+  }
+  
+  a, .page-link, .post-meta a {
+    color: var(--link-color);
+  }
+  
+  a:hover {
+    color: var(--link-hover-color);
+  }
+  
+  .highlight pre {
+    background: var(--code-bg-color);
+  }
+  
+  .site-header {
+    background-color: #e6fff2;
+    border-bottom: 1px solid #b3ffd9;
+  }

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yigitcan Özer"
+title                    : #
 title_separator          : "-"
 name                     : &name "Yigitcan Özer"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Yigitcan Özer"
-  pronouns         : "he/him"
+  pronouns         : #
   bio              : "postdoc | pianist | language nerd"
   location         : "Tokyo, Japan"
   employer         : "Yamagishi Lab, NII"
