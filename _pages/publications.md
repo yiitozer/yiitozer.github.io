@@ -34,7 +34,6 @@ Journal of Open Source Software (JOSS), vol. 9, no. 98, 2024
 Transactions of the International Society for Music Information Retrieval (TISMIR), vol. 6, no. 1, pp. 75–88, 2023
 
 Meinard Müller, **Yigitcan Özer**, Michael Krause, Thomas Prätzlich, and Jonathan Driedger
-
 *Sync Toolbox: A Python Package for Efficient, Robust, and Accurate Music Synchronization*
 Journal of Open Source Software (JOSS), 6(64): 1–4, 2021. 
 

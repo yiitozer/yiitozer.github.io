@@ -32,4 +32,4 @@ Before returning to research, I spent three years in industry. At an American st
 I'm a self-declared **language nerd** who enjoys diving into **etymology** and steadily learning new languages. During my Ph.D., I also co-led workshops on **electronic instrument design** for high school students at [Fraunhofer IDMT](https://www.idmt.fraunhofer.de/en.html) in Ilmenau — blending outreach, music, and engineering.
 
 --- 
-If you're a fellow researcher, musician, language geek, or just a curious mind — I’d love to connect! Cheers.
+If you're a fellow researcher, musician, language geek, or just a curious mind — I’d love to connect. Cheers!
