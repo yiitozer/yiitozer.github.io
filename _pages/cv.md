@@ -15,10 +15,10 @@ redirect_from:
 * **B.S. in Electrical and Electronics Engineering**, Bilkent University, Turkey, *Sep 2009 – Jun 2013*  
 
 ## Work Experience
-* **Postdoctoral Researcher**, National Institute of Informatics, Tokyo, Japan, *Yamagishi Lab* — April 2025 — present
-* **Research Intern**, Sony AI, Tokyo, Japan, *Music Foundation Model Team — Sep 2024 – Dec 2024*  
-* **Research Assistant**, International Audio Laboratories Erlangen, Germany, *Semantic Audio Processing Group — Jan 2021 – Aug 2024*  
-* **Research Associate**, Fraunhofer IIS, Erlangen, Germany *Spoken Language Processing Group — Jan 2019 – Dec 2020*  
+* **Postdoctoral Researcher**, National Institute of Informatics, Tokyo, Japan, *April 2025 — present*
+* **Research Intern**, Sony AI, Tokyo, Japan, *Sep 2024 – Dec 2024*  
+* **Research Assistant**, International Audio Laboratories Erlangen, Germany, *Jan 2021 – Aug 2024*  
+* **Research Associate**, Fraunhofer IIS, Erlangen, Germany *Jan 2019 – Dec 2020*  
 * **Data Science Consultant**, Data Insights GmbH, Munich, Germany, *Jun 2017 – Dec 2018*  
 * **Machine Learning Engineer**, Cape Analytics GmbH, Munich, Germany, *Jan 2016 – May 2017*  
 
