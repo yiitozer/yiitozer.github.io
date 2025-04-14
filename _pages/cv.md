@@ -11,54 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Semantic Audio Processing**, Friedrich Alexander University Erlangen-Nuremberg, Germany  
+  * *Jan 2021 – Jun 2024*  
+  * Thesis: *Source Separation of Piano Music Recordings*  
+  * Advisor: Prof. Meinard Müller  
+  * Focus: Audio source separation, music synchronization, and audio decomposition
 
-Work experience
+* **M.S. in Communications Engineering**, Technical University of Munich, Germany  
+  * *Sep 2013 – Nov 2015*  
+  * Thesis: *Multimodal Deep Convolutional Neural Networks for Texture Classification*  
+  * GPA: 1.9 / 1.0
+
+* **B.S. in Electrical and Electronics Engineering**, Bilkent University, Turkey  
+  * *Sep 2009 – Jun 2013*  
+  * Graduated with College Honors  
+  * GPA: 3.77 / 4.00
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Postdoctoral Researcher**, National Institute of Informatics, Tokyo, Japan
+  * *Yamagishi Lab* — April 2025 — present
+  * Audio watermarking
+  * Generative models for speech and music processing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, Sony AI, Tokyo, Japan  
+  * *Music Foundation Model Team — Sep 2024 – Dec 2024*  
+  * Audio watermarking with deep learning techniques
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Assistant**, International Audio Laboratories Erlangen, Germany  
+  * *Semantic Audio Processing Group — Jan 2021 – Aug 2024*  
+  * Source separation, music synchronization, and decomposition
+
+* **Research Associate**, Fraunhofer IIS, Erlangen, Germany  
+  * *Spoken Language Processing Group — Jan 2019 – Dec 2020*  
+  * Lead developer for TTS pipelines; music processing with NMF
+
+* **Data Science Consultant**, Data Insights GmbH, Munich, Germany  
+  * *Jun 2017 – Dec 2018*  
+  * ML for word mining, computer vision, and time series  
+  * Agile consulting with Scrum
+
+* **Machine Learning Engineer**, Cape Analytics GmbH, Munich, Germany  
+  * *Jan 2016 – May 2017*  
+  * Deep learning for computer vision; supervised student team
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (Proficient)
+* C++, MATLAB (Intermediate)
+* PyTorch, TensorFlow, Apache Spark
+
+Languages
+======
+* English (Fluent), German (Fluent), Turkish (Native)  
+* Japanese (Intermediate), French (Intermediate)  
+* Spanish (Basic), Russian (Basic), Persian (Basic)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
