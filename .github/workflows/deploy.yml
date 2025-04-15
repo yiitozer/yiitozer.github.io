@@ -1,32 +1,38 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Build and Deploy AcademicPages Site
 
 on:
   push:
     branches:
-      - main  # or 'master', depending on your default branch
+      - main  # or 'master' if that's your default branch
       - master
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  jekyll:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1
+          ruby-version: '3.1'
 
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
 
-      - name: Build site
+      - name: Build the site with Jekyll
         run: bundle exec jekyll build
 
-      - name: Deploy to gh-pages
+      - name: Deploy to GitHub Pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
