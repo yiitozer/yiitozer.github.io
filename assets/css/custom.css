@@ -1,0 +1,31 @@
+body, html, .page, .archive {
+    font-family: 'Fira Sans', sans-serif !important;
+  }
+  
+  /* Define color variables for theme */
+  :root {
+    --global-theme-color: #98ff98;     /* mint green */
+    --link-color: #50c878;
+    --link-hover-color: #3cb371;
+    --code-bg-color: #030303;
+  }
+  
+  /* Apply link colors */
+  a, .page-link, .post-meta a {
+    color: var(--link-color);
+  }
+  
+  a:hover {
+    color: var(--link-hover-color);
+  }
+  
+  /* Set code block background */
+  .highlight pre {
+    background: var(--code-bg-color);
+  }
+  
+  /* Customize header */
+  .site-header {
+    background-color: #e6fff2;
+    border-bottom: 1px solid #b3ffd9;
+  }
