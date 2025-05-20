@@ -39,7 +39,11 @@ Journal of Open Source Software (JOSS), 6(64): 1–4, 2021.
 
 ---
 
-## 📘 Conference Papers
+## 📙 Conference Papers
+
+**Yigitcan Özer**, Woosung Choi, Joan Serrà, Mayank Kumar Singh, Wei-Hsiang Liao, Yuki Mitsufuji  
+*A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?*  
+Proc. Annual Conference of the International Speech Communication Association (Interspeech), Rotterdam, The Netherlands, 2025
 
 **Yigitcan Özer**, Hans-Ulrich Berendes, Vlora Arifi-Müller, Fabian-Robert Stöter, Meinard Müller  
 *Notewise Evaluation for Music Source Separation: A Case Study for Separated Piano Tracks*  
