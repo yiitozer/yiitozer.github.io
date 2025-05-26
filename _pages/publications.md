@@ -47,7 +47,7 @@ Proc. Annual Conference of the International Speech Communication Association (I
 
 **Yigitcan Özer**, Hans-Ulrich Berendes, Vlora Arifi-Müller, Fabian-Robert Stöter, Meinard Müller  
 *Notewise Evaluation for Music Source Separation: A Case Study for Separated Piano Tracks*  
-Proc. International Society for Music Information Retrieval Conference (ISMIR), San Francisco, USA, 2024
+Proc. International Society for Music Information Retrieval Conference (ISMIR), San Francisco, USA, 2024, , pp. 248–255
 
 Nazif Can Tamer, **Yigitcan Özer**, Meinard Müller, Xavier Serra  
 *TAPE: An End-to-End Timbre-Aware Pitch Estimator*  
