@@ -25,3 +25,14 @@ redirect_from:
 ## 🌐 Languages
 * **Fluent**: Turkish (Native), English, German, Python
 * **Intermediate**: Japanese, French, C++, MATLAB
+
+## 🔍 Academic Service
+- **TASLP** – *IEEE/ACM Transactions on Audio, Speech, and Language Processing*
+- **TISMIR** – *Transactions of the International Society for Music Information Retrieval*  
+- **EURASIP Journal on Advances in Signal Processing**
+- **ISMIR** – *International Society for Music Information Retrieval Conference* (2022, 2023, 2024, 2025)  
+- **ICASSP** – *IEEE International Conference on Acoustics, Speech and Signal Processing* (2024, 2025)  
+- **Interspeech** – *Conference of the International Speech Communication Association* (2025)  
+- **WASPAA** – *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics* (2025)  
+- **IJCNN** – *International Joint Conference on Neural Networks* (2025)  
+- **JOSS** – *Journal of Open Source Software*  
