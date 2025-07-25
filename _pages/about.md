@@ -17,7 +17,7 @@ After earning my B.Sc. from [Bilkent University](https://w3.bilkent.edu.tr/bilke
 
 ### 🎶 Merging Music and Research
 
-During my Ph.D., I pursued a project deeply connected to my identity as a **pianist**. I’ve always dreamed of playing a piano concerto with an orchestra — but instead of waiting for that opportunity, I decided to create it myself. This led to my work on **source separation of piano concertos**, enabling me to extract orchestral parts from recordings and play alongside them. This journey resulted in a personally meaningful integration of science and art. One highlight was performing with Mozart’s Piano Concerto in D minor using a custom orchestral backing generated as a final product of my Ph.D. You can explore the project and listen to further audio demos [here](https://www.audiolabs-erlangen.de/resources/MIR/PCD_AudioLabs).
+During my Ph.D., I pursued a project deeply connected to my identity as a **pianist**. I’ve always dreamed of playing a piano concerto with an orchestra, but instead of waiting for that opportunity, I decided to create it myself. This led to my work on **source separation of piano concertos**, enabling me to extract orchestral parts from recordings and play alongside them. This journey resulted in a personally meaningful integration of science and art. One highlight was performing with Mozart’s Piano Concerto in D minor using a custom orchestral backing generated as a final product of my Ph.D. You can explore the project and listen to further audio demos [here](https://www.audiolabs-erlangen.de/resources/MIR/PCD_AudioLabs).
 
 ---
 
@@ -29,7 +29,7 @@ Before returning to research, I spent three years in industry. At an American st
 
 ### 🧠 Side Passions
 
-I'm a self-declared **language nerd** who enjoys diving into **etymology** and steadily learning new languages. During my Ph.D., I also co-led workshops on **electronic instrument design** for high school students at [Fraunhofer IDMT](https://www.idmt.fraunhofer.de/en.html) in Ilmenau — blending outreach, music, and engineering.
+I'm a self-declared **language nerd** who enjoys diving into **etymology** and steadily learning new languages. During my Ph.D., I also co-led workshops on **electronic instrument design** for high school students at [Fraunhofer IDMT](https://www.idmt.fraunhofer.de/en.html) in Ilmenau.
 
 --- 
-If you're a fellow researcher, musician, language geek, or just a curious mind — I’d love to connect. Cheers!
+If you're a fellow researcher, musician, language geek, or just a curious mind, I’d love to connect. Cheers!
