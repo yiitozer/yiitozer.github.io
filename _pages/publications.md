@@ -41,8 +41,8 @@ Journal of Open Source Software (JOSS), 6(64): 1–4, 2021.
 
 ## 📙 Conference Papers
 
-**Yigitcan Özer**, Wanying Ge, Zhe Zhang, Xin Wang, Junichi Yamagishi
-*Self Voice Conversion as an Attack against Neural Audio Watermarking*  
+**Yigitcan Özer**, Wanying Ge, Zhe Zhang, Xin Wang, Junichi Yamagishi  
+*Self Voice Conversion as an Attack against Neural Audio Watermarking*    
 Proc. Speech Processing Workshop, The Institute of Electronics, Information and Communication Engineers (IEICE), Okinawa, Japan, 2026
 
 **Yigitcan Özer**, Woosung Choi, Joan Serrà, Mayank Kumar Singh, Wei-Hsiang Liao, Yuki Mitsufuji  
