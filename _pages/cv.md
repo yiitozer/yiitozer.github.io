@@ -13,7 +13,9 @@ redirect_from:
 * **B.S. in Electrical and Electronics Engineering**, Bilkent University, Turkey, *Sep 2009 — Jun 2013*  
 
 ## 💼 Work Experience
-* **Postdoctoral Researcher**, National Institute of Informatics, Tokyo, Japan, *April 2024 — present*
+* **Postdoctoral Researcher**, Sound Interaction and Computing (SInC) Lab, New Jersey Institute of Technology, Newark, USA, *Nov 2026 — present*
+* **Postdoctoral Researcher**, Music and Audio Research Laboratory (MARL), New York University, New York, USA, *Nov 2026 — present*
+* **Postdoctoral Researcher**, National Institute of Informatics, Tokyo, Japan, *April 2024 — October 2026*
 * **Research Intern**, Sony AI, Tokyo, Japan, *Sep 2024 — Dec 2024*  
 * **Research Assistant**, International Audio Laboratories Erlangen, Germany, *Jan 2021 — Aug 2024*  
 * **Research Associate**, Fraunhofer IIS, Erlangen, Germany *Jan 2019 — Dec 2020*  
