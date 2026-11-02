@@ -9,7 +9,9 @@ redirect_from:
 
 Welcome to my personal website!
 
-I'm **Yigitcan Özer**, a postdoctoral researcher at the [Yamagishi Lab](https://yamagishilab.jp/), National Institute of Informatics in Tokyo, Japan. I specialize in **audio processing**, with a focus on **watermarking** and **generative models for speech and music**.
+I'm **Yigitcan Özer**, a postdoctoral researcher at the [Sound Interaction and Computing (SInC) Lab](https://sinc-lab.com/), New Jersey Institute of Technology, and the [Music and Audio Research Laboratory (MARL)](https://steinhardt.nyu.edu/marl), New York University. Working with [Mark Cartwright](https://markcartwright.com/) and [Magdalena Fuentes](https://magdalenafuentes.com/), I focus on **audio captioning** and **generative models for music**.
+
+Previously, I was a postdoctoral researcher at the [Yamagishi Lab](https://yamagishilab.jp/), National Institute of Informatics in Tokyo, Japan, where I worked on **audio watermarking**, **deepfake detection**, and **generative models for music**.
 
 After earning my B.Sc. from [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) (Turkey) and M.Sc. from the [Technical University of Munich](https://www.tum.de) (Germany), I completed my Ph.D. at the [International Audio Laboratories Erlangen](https://www.audiolabs-erlangen.de) under the supervision of [Prof. Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller). Before that, I worked at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html) as a research associate in the Spoken Language Processing Group.
 
